@@ -1,7 +1,5 @@
 import React, { useState } from 'react';
 import ToDoLists from "./ToDoLists";
-// import Header from './components/Header';
-// import TodosList from './components/TodosList';
 import './App.css';
 
 
